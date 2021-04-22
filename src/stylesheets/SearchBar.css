@@ -1,0 +1,24 @@
+.input {
+    width: 50vw;
+    padding: 12px 20px;
+    margin-bottom: 6px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-sizing: border-box;
+}
+
+.search-button {
+    width: 25vw;
+    background-color: rgb(42, 131, 124);
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+}
+
+.search-button:hover {
+    background-color: rgb(31, 95, 90);
+}
